@@ -14,11 +14,11 @@ for i in range(0,5):
         print("Your number is higher")
         
     elif user_input < secreat_number:
-<<<<<<< HEAD
+
         print("Your number is lesser")  
-=======
+
         print("Your number is lesser")
->>>>>>> ef56937fa45e707bc51d71827d69d2c313d22f89
+
         
     else:
         print("Your Guessing number is correct!!!")
@@ -28,3 +28,4 @@ if secreat_number == user_input:
     print(f"Congratulation, you guessed the number {secreat_number} in {i} attempts") 
 else:
     print("Sorry!! Your all trials are excisesed")
+    print("Sorry bro")
