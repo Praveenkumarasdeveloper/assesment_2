@@ -28,3 +28,4 @@ if secreat_number == user_input:
     print(f"Congratulation, you guessed the number {secreat_number} in {i} attempts") 
 else:
     print("Sorry!! Your all trials are excisesed")
+    print("Sorry bro")
